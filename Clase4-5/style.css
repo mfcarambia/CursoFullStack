@@ -1,0 +1,37 @@
+th{
+    font-weight: bold;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+td{
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: whitesmoke;
+}
+table{
+    background-color: coral;
+}
+
+header{
+    width: 100%;
+    background-color: rgb(255, 253, 253);
+}
+
+footer{
+    
+    height: auto;
+    background-color: rgb(255, 253, 253);
+}
+
+p{
+    font-style:oblique;
+    font-size: 13px;
+}
+
+form{
+    padding: 20px;
+    background-color:coral;
+    border: 10px solid black;
+   width: 50%;
+}
